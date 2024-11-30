@@ -143,7 +143,6 @@ class Program
         {
             Console.WriteLine("Division by zero occurred when calculating (a^2 - b^2) / (a + b)");
         }
-
         Console.WriteLine("=== Finishing testing (a-b) and (a^2 - b^2)/(a+b) with a = " + a + ", b = " + b + " ===");
     }
     static void Main(string[] args)
